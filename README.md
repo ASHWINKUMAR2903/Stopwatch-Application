@@ -112,3 +112,4 @@ startBtn.addEventListener("click", startTimer)
 pauseBtn.addEventListener("click", pauseTimer)
 resetBtn.addEventListener("click", resetTimer)
 ```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/82aeb8c6-f25a-493e-a18d-dc83429d6941" />
